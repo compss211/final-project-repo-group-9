@@ -1,7 +1,7 @@
 # COMPSS-211-Final-Project-Template-Repo
 Template repository for COMPSS-211 Final Projects
-
-## Contributors
+### Armor_Cao
+Armor will write data
 
 ### Liujun
 I will be responsible for collecting data
