@@ -15,7 +15,7 @@ Sub-2: What are the most common words and topics in user reviews?
 Sub-3: Can review ratings be predicted based on review text features?
 
 ## Dataset  
-We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing over 3.3 million reviews. After filtering by date and text quality, we derived a final, curated dataset of 1,669,701 English-dominated reviews from November 2019 to November 2023. The original dataset is available at: [https://www.kaggle.com/datasets/bwandowando/3-4-million-spotify-google-store-reviews](https://www.kaggle.com/datasets/bwandowando/3-4-million-spotify-google-store-reviews). For this project, a processed sample of this data is included in the `data` folder for analysis and reproducibility. 
+We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing over 3.3 million reviews. After filtering by date and text quality, we derived a final, curated dataset of 1,669,701 English-dominated reviews from November 2019 to November 2023. The original dataset is available at: [https://www.kaggle.com/datasets/bwandowando/3-4-million-spotify-google-store-reviews](https://www.kaggle.com/datasets/bwandowando/3-4-million-spotify-google-store-reviews). We used a full dataset for our analysis, but due to GitHub storage limits, we uploaded only a sample of the data to this repository to show our workflow and ensure that all code could be executed with the sample of data. 
 
 
 ## Project Structure  
